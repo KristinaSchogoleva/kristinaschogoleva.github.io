@@ -1,13 +1,18 @@
 title: Kristina Schogoleva # your name (or website title) here
 logo: "images/photo_main_port.png" # your photo (or logo) here
 description: >
-  Data Analyst with a background in Mathematics and Computer Science, focused on statistics, experimentation, and product analytics.
+  <h2>Data Analyst</h2>
 
-  Trained through self-study and the Generation data analytics program, with experience in SQL, Python, data visualization, and A/B testing.
+  <p>Mathematics and Computer Science background with a strong focus on statistics, experimentation, and product analytics.</p>
 
-  Interested in applying statistical methods to product decision-making and experimentation design.  <br><br>
+  <p>Trained through self-study and the Generation data analytics program, with experience in SQL, Python, data visualization, and A/B testing.</p>
+
+  <p>Interested in applying statistical thinking to product decision-making and experimentation design.</p>
+
+  <br>
+
+  <a href="https://www.linkedin.com/in/kristina-sсhogoleva95">View My LinkedIn Profile</a>
  
-  <a href="www.linkedin.com/in/kristina-sсhogoleva95">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
