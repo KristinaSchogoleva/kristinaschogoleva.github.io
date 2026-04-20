@@ -3,14 +3,14 @@ logo: "images/photo_main_port.png" # your photo (or logo) here
 description: >
   <h2 style="margin-bottom: 10px;">Data Analyst</h2>
 
-  <p>Mathematics and Computer Science background with a strong focus on statistics, experimentation, and product analytics.</p>
+  <p>Background in Mathematics and Computer Science with a focus on statistics, experimentation, and product analytics.</p>
 
-  <p>Trained through self-study and the Generation data analytics program.</p>
+  <p>Completed the Generation UK & Ireland Data Analytics program.</p>
 
-  <p>Interested in A/B testing, product experimentation, and applying statistical thinking to product decisions.</p>
+  <p>Interested in A/B testing, product experimentation, and data-driven decision-making.</p>
 
   <p style="margin-top: 15px;">
-     <a href="https://www.linkedin.com/in/kristina-sсhogoleva95">LinkedIn Profile</a>
+     <a href="https://www.linkedin.com/in/kristina-sсhogoleva95">LinkedIn</a>
   </p>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
