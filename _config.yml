@@ -13,8 +13,8 @@ description: >
 
   <a href="https://www.linkedin.com/in/kristina-sсhogoleva95">View My LinkedIn Profile</a>
 remote_theme: pages-themes/minimal@v0.2.0
-github:
-  is_project_page: false
 plugins:
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+github:
+  is_project_page: false
