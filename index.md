@@ -1,10 +1,10 @@
-## Portfolio
+## Projects
 
 ---
 
-### Category Name 1 
+### Data Analysis Projects
 
-[Project 1 Title](/sample_page)
+[Car Dealership Sales](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
