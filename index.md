@@ -1,35 +1,28 @@
+
+
 ## Projects
 
----
+### Car Dealership Sales (End-to-End Analytics Project)
 
-### Data Analysis Projects
+<img src="images/car_dashboard.png?raw=true"/>
 
-[Car Dealership Sales](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+**Overview**  
+End-to-end analytics project for a car dealership to analyse sales performance, customer behaviour, and profitability.
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+**What I did**
+- Built ETL pipeline in Python to clean and transform raw transactional data  
+- Anonymised sensitive customer information  
+- Engineered features such as profit (40% markup) and structured dataset for analysis  
+- Created interactive Power BI dashboard for business insights  
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+**Key insights**
+- Identified differences in performance across branches  
+- Analysed sales trends and customer payment behaviour  
+- Highlighted best-selling models and revenue drivers  
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+👉 [View project on GitHub](https://github.com/YourUsername/car_sales_project)
 
 ---
 
 
 
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
