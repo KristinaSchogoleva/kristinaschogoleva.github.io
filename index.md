@@ -20,7 +20,7 @@ End-to-end analytics project for a car dealership to analyse sales performance, 
 - Analysed sales trends and customer payment behaviour  
 - Highlighted best-selling models and revenue drivers  
 
-👉 [View project on GitHub](https://github.com/KristinaSchogoleva/car_sales_project.git)
+ [View project on GitHub](https://github.com/KristinaSchogoleva/car_sales_project.git)
 
 ---
 
